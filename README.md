@@ -35,8 +35,8 @@ Screen_Laptop_1024 <br>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/archana-nagaraj/Frontend-Mentor--profile-card-component)
+- Live Site URL: [Github pages](https://archana-nagaraj.github.io/Frontend-Mentor--profile-card-component/)
 
 ## My process
 
@@ -44,14 +44,9 @@ Screen_Laptop_1024 <br>
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flex
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
